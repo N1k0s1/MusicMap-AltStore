@@ -4,7 +4,6 @@
   "description": "Welcome to my source! Here you'll find MusicMap, currently the only app I've developed for iOS. If you have any problems with it at all, then don't hesitate to email me at niko@apringle.tech!",
   "iconURL": "https://avatars.githubusercontent.com/u/128133376?v=4",
   "website": "https://apringle.tech",
-  "patreonURL": "",
   "tintColor": "#172dc4",
   "featuredApps": [
     "com.apringle.MusicMap"
