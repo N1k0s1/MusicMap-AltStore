@@ -26,20 +26,20 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://github.com/N1k0s1/MusicMap/releases/download/v0.1/MusicMap-v0.1.ipa",
-          "size": 17100000,
-          "version": "0.1",
-          "buildVersion": "1",
-          "date": "2025-05-21T21:21:00+12:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        },
-        {
           "downloadURL": "https://github.com/N1k0s1/MusicMap/releases/download/v0.2/MusicMap-v0.2.ipa",
           "size": 17100000,
           "version": "0.2",
           "buildVersion": "1",
           "date": "2025-05-23T21:21:00+12:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "downloadURL": "https://github.com/N1k0s1/MusicMap/releases/download/v0.1/MusicMap-v0.1.ipa",
+          "size": 17100000,
+          "version": "0.1",
+          "buildVersion": "1",
+          "date": "2025-05-21T21:21:00+12:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -48,7 +48,6 @@
         "entitlements": [],
         "privacy": {}
       },
-      "patreon": {}
     }
   ],
   "news": [
