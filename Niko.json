@@ -26,6 +26,15 @@
       ],
       "versions": [
         {
+          "downloadURL": "https://github.com/N1k0s1/MusicMap/releases/download/v0.3/MusicMap-v0.3.ipa",
+          "size": 14500000,
+          "version": "0.3",
+          "buildVersion": "9",
+          "date": "2025-06-09T21:00:00+12:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
           "downloadURL": "https://github.com/N1k0s1/MusicMap/releases/download/v0.2/MusicMap-v0.2.ipa",
           "size": 17100000,
           "version": "0.2",
