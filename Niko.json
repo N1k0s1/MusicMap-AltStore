@@ -54,7 +54,8 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          beta-reports-active],
         "privacy": {}
       }
     }
