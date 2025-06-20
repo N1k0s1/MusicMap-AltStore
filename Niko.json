@@ -55,7 +55,8 @@
       ],
       "appPermissions": {
         "entitlements": [
-          beta-reports-active],
+          "beta-reports-active"
+        ],
         "privacy": {}
       }
     }
@@ -63,13 +64,13 @@
   "news": [
     {
       "title": "First Release of MusicMap!",
-      "identifier": "news_r4o0yvl93u",
+      "identifier": "news_r4o0yvl93u", 
       "caption": "Introducing MusicMap, the first purpose built app to link emotions to music.",
       "date": "2025-05-22T09:34",
       "tintColor": "#0c70ee",
       "imageURL": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/2e7aceb6f99088b782d2ffe0a39552753a69d107_icon.png",
       "notify": true,
-      "url": "https://github.com/N1k0s1/MusicMap/releases/tag/v0.1",
+      "url": "https://github.com/N1k0s1/MusicMap/releases/tag   /v0.1",
       "appID": "com.apringle.MusicMap"
     }
   ]
